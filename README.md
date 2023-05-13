@@ -7,19 +7,19 @@ This is a aerothon hackathon project,where we have to provide a platform for man
 ## Some ScreenShots
 
 
-![Example Image](img/Screenshot (327).png)
+![Example](Screenshot (327).png)
 
 
-![Example Image](img/Screenshot (328).png)
+![Example](Screenshot (328).png)
 
 
-![Example Image](img/Screenshot (329).png)
+![Example](Screenshot (329).png)
 
 
-![Example Image](img/Screenshot (330).png)
+![Example](Screenshot (330).png)
 
 
-![Example Image](img/Screenshot (331).png)
+![Example](Screenshot (331).png)
 
 
-![Example Image](img/Screenshot (332).png)
+![Example](Screenshot (332).png)
