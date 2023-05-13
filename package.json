@@ -1,0 +1,38 @@
+{
+  "name": "splendid_immigration",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.14",
+    "@next/font": "13.2.1",
+    "amazon-cognito-identity-js": "^6.2.0",
+    "aws-amplify": "^5.0.21",
+    "canvasjs": "^1.8.3",
+    "chart.js": "^4.2.1",
+    "eslint": "8.34.0",
+    "eslint-config-next": "13.2.1",
+    "jquery": "^3.6.3",
+    "next": "^13.2.1",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-countup": "^6.4.2",
+    "react-dom": "18.2.0",
+    "react-google-charts": "^4.0.0",
+    "react-otp-input": "^3.0.0",
+    "react-owl-carousel": "^2.3.3",
+    "recharts": "^2.6.2",
+    "sweetalert": "^2.1.2",
+    "typewriter-effect": "^2.19.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.2"
+  }
+}
